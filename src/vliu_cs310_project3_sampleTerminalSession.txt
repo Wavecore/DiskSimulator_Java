@@ -1,0 +1,213 @@
+=====================================
+Vincent Liu
+CS 310 Project 03
+Sample Terminal Session
+======================================
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+2
+Please enter the name of the mountain (only the first 27 characters will be accepted):
+Sill, Mount
+Sill, Mount, country: United States, altitude: 14153 ft.
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+2
+Please enter the name of the mountain (only the first 27 characters will be accepted):
+Silly, Mount
+Unable to find record
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+2
+Please enter the name of the mountain (only the first 27 characters will be accepted):
+Everest
+Everest, country: Nepal/Tibet, altitude: 29035 ft.
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+GMU, Mount
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+United States
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+31000
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+Hooha Peak
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+Canada
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+3
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+2
+Please enter the name of the mountain (only the first 27 characters will be accepted):
+GMU, Mount
+GMU, Mount, country: United States, altitude: 31000 ft.
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+Snargle 1, Mount
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+United States
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+237
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+Snargle 2, Mount
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+Luxembourg
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+29334
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+Snargle 3, Mount
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+Thailand
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+0
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+Snargle 4, Mount
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+Detroit
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+200
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+Snargle 5, Mount
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+Hole in the Ground
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+-7
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+Snargle 6, Mount
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+Guinea-Bissau
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+10110
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+Snargle 7, Mount
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+Uruguay
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+888
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+Snargle 8, Mount
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+Mars
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+20682
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+Snargle 9, Mount
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+Canada
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+3
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+1
+Please enter a mountain name (only the first 27 characters will be accepted):
+Snargle 10, Mount
+Please enter the country the mountain is located in (only the first 27 characters will be accepted):
+Delaware
+Please enter the altitude of the mountain (only the first 6 characters will be accepted):
+14010
+Records as successfully added
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+2
+Please enter the name of the mountain (only the first 27 characters will be accepted):
+Snargle 10, Mount
+Snargle 10, Mount, country: Delaware, altitude: 14010 ft.
+OPTIONS
+1) Insert new record
+2) Find record
+3) Quit
+Please enter a number(1-3)
+3
+Goodbye
